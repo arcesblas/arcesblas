@@ -20,12 +20,10 @@ I am currently working very hard learning:
 - How to be a master of Excel and data visualization 👨‍🏫
 - And of course! Statistics and calculus 📈
 
-However, I am a very curious person and along the way I also like to learn:
-languages like C++, HTML, CSS and things like Cloud Computing, Backend, Hardware. Believe me, I'm always learning something
 
 I speak Spanish and English (I am learning German but I am not fluent yet :disappointed_relieved:).
 
 📫 How to reach me:  
-🔗 Linkedin: https://www.linkedin.com/in/arcesblas/  
-🔗 Twitter: https://twitter.com/arcesblas  
-🔗 Deepnote: https://deepnote.com/@arcesblas   
+🔗 [Linkedin](https://www.linkedin.com/in/arcesblas/)  
+🔗 [Twitter](https://twitter.com/arcesblas)  
+🔗 [Deepnote](https://deepnote.com/@arcesblas)   
