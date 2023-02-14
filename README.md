@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **arcesblas/arcesblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Arces Blas! :smiley:
+Hi there 👋, my name is! :smiley:
+
+![portada](portada.jpg)
 
 Looking to pivot to a career in data.
 I am currently working very hard learning:
