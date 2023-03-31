@@ -34,3 +34,5 @@ I speak Spanish and English (I am learning German but I am not fluent yet :disap
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12162715557)
 
+![](https://komarev.com/ghpvc/?username=arcesblas)
+
