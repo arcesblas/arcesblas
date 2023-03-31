@@ -32,6 +32,5 @@ I speak Spanish and English (I am learning German but I am not fluent yet :disap
 
 ## Spotify Playing 🎧
 
-<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12162715557)
-</div>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12162715557)
+
