@@ -29,7 +29,7 @@ I speak Spanish and English (I am learning German but I am not fluent yet :disap
 🔗 [Linkedin](https://www.linkedin.com/in/arcesblas/)  
 🔗 [Twitter](https://twitter.com/arcesblas)  
 🔗 [Deepnote](https://deepnote.com/@arcesblas)   
-
+🔗 [Youtube](https://www.youtube.com/channel/UCXPQuwFJYQnQL5yTzibxjqw)
 
 ![](https://komarev.com/ghpvc/?username=arcesblas)
 
